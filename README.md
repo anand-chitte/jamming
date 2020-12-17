@@ -1,18 +1,10 @@
 # Jamming
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/533c688a-6600-490f-9f06-3ee473e4515a/deploy-status)](https://app.netlify.com/sites/jamming/deploys)
-
 Jamming is a useless React app for creating new playlists with Spotify.
-
-![image](https://user-images.githubusercontent.com/10026538/65839342-303a1d00-e304-11e9-84ec-43e7d8b2365a.png)
 
 ## Codecademy
 
-Built for the final project of the [Codecademy Pro Intensive - Build Front-End Web Applications from Scratch](https://bit.ly/2m3tEtc).
-* Code Review - [Overall Score: 16/16](https://github.com/connorads/jamming/issues/1)
-* Credential - [Codecademy Pro Intensive Certification](https://www.credential.net/4wjkoonj)
-
-![image](https://user-images.githubusercontent.com/10026538/66459038-161ede00-ea6c-11e9-814b-ef977d513d1b.png)
+Built for the final project of the [Codecademy - Web Development Path](https://bit.ly/2m3tEtc).
 
 ## Features
 
